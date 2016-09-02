@@ -1,4 +1,4 @@
-Copyright (c) <2016> <Blockfreight™>
+Copyright (c) 2016 Blockfreight Inc. Blockfreight™
 
 Author: Julian Smith, <julian.smith@blockfreight.com>
 
